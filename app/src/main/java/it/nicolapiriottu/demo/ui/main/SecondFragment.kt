@@ -10,9 +10,7 @@ import dagger.hilt.android.AndroidEntryPoint
 import it.nicolapiriottu.demo.R
 import it.nicolapiriottu.demo.databinding.FragmentSecondBinding
 
-/**
- * A simple [Fragment] subclass as the second destination in the navigation.
- */
+
 @AndroidEntryPoint
 class SecondFragment : Fragment() {
 
